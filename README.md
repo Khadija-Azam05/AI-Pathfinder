@@ -1,4 +1,4 @@
-# 🧭 AIPathfinder
+#  AIPathfinder
 ### Uninformed Search Algorithm Visualization
 
 AIPathfinder implements and visualizes multiple **uninformed (blind) search algorithms** on a 10×10 grid environment.
@@ -12,7 +12,7 @@ The visualization displays:
 
 ---
 
-## 🚀 Features
+## Features
 
 - 10×10 grid environment  
 - Static vertical wall obstacle  
@@ -23,7 +23,7 @@ The visualization displays:
 
 ---
 
-## 🧠 Algorithms Implemented
+## Algorithms Implemented
 
 ### 1. Breadth-First Search (BFS)
 - Uses a Queue (FIFO)
@@ -56,7 +56,7 @@ The visualization displays:
 
 ---
 
-## 🎨 Visualization Legend
+##  Visualization Legend
 
 - 🟩 **Green** → Final path  
 - 🟨 **Yellow** → Frontier  
@@ -67,9 +67,3 @@ The visualization displays:
 
 ---
 
-## 📦 Requirements
-
-Install dependencies before running:
-
-```bash
-pip install numpy matplotlib
